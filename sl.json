@@ -439,14 +439,14 @@
 	},
 	"editor": {
 		"search": {
-			"placeholder-find": "Find",
-			"placeholder-replace": "Replace",
-			"label-exit-search": "Exit search",
-			"label-next": "Next",
-			"label-previous": "Prev",
-			"label-find-all": "Find all",
-			"label-replace": "Replace",
-			"label-replace-all": "Replace all"
+			"placeholder-find": "Poišči",
+			"placeholder-replace": "Zamenjaj",
+			"label-exit-search": "Izhod iz iskanja",
+			"label-next": "Naslednji",
+			"label-previous": "Prejšnji",
+			"label-find-all": "Poišči vse",
+			"label-replace": "Zamenjaj",
+			"label-replace-all": "Zamenjaj vse"
 		},
 		"link-suggestion": {
 			"label-type-hash": "Type #",
@@ -475,9 +475,9 @@
 			"label-heading-level": "Heading {{level}}"
 		},
 		"print-modal": {
-			"title": "Export to PDF",
+			"title": "Izvozi v PDF",
 			"caption": "Export \"{{filename}}\" to PDF with the setting below.",
-			"setting-page-size": "Page size",
+			"setting-page-size": "Velikost strani",
 			"setting-page-size-a3": "A3",
 			"setting-page-size-a4": "A4",
 			"setting-page-size-a5": "A5",
@@ -491,7 +491,7 @@
 			"setting-margin-minimal": "Minimal",
 			"setting-margin-none": "None",
 			"setting-downscale-percent": "Downscale percent",
-			"button-export-to-pdf": "Export to PDF"
+			"button-export-to-pdf": "Izvozi v PDF"
 		},
 		"link-popover": {
 			"tooltip-follow-link": "Follow link",
